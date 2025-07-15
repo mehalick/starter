@@ -1,8 +1,7 @@
-# Visual Studio
+# IDEs
 .vs/
-
-# Visual Studio Code
-.vscode
+.vscode/
+.idea/
 
 # User-specific files
 *.suo
@@ -31,7 +30,3 @@ artifacts/
 node_modules
 **/wwwroot/dist/
 **/publish/
-
-.idea/.idea.BananaTracks/.idea/
-
-
